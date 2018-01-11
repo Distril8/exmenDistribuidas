@@ -1,0 +1,4 @@
+com\gestor\bots\admin\console\web\common\BaseBean.class
+com\gestor\bots\admin\console\web\SocialMediaBean.class
+com\gestor\bots\admin\console\web\IndexBean.class
+com\gestor\bots\admin\console\web\ClienteAdminBean.class
